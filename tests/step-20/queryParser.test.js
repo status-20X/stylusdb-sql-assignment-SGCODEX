@@ -1,4 +1,4 @@
-const { parseJoinClause, parseSelectQuery } = require('../src/queryParser');
+const { parseJoinClause, parseSelectQuery } = require('../../src/queryParser');
 
 describe('parseJoinClause', () => {
 
